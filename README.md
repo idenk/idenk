@@ -1,6 +1,5 @@
-(Github Stat) [![idenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=idenk)]
-
-(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idenk)
+[![idenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=idenk)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idenk)
 
 
 <!--
