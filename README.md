@@ -1,4 +1,4 @@
-### Hi there 👋
+![idenk's github stats](https://github-readme-stats.vercel.app/api?username=idenk&show_icons=true)
 
 <!--
 **idenk/idenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
